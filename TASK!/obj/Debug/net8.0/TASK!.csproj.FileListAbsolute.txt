@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\bin\Debug\net8.0\TASK!.exe
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\bin\Debug\net8.0\TASK!.deps.json
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\bin\Debug\net8.0\TASK!.runtimeconfig.json
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\bin\Debug\net8.0\TASK!.dll
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\bin\Debug\net8.0\TASK!.pdb
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.AssemblyInfo.cs
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.dll
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\refint\TASK!.dll
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.pdb
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\TASK!.genruntimeconfig.cache
+C:\Users\Hp\Desktop\class18.12.2023\TASK!\obj\Debug\net8.0\ref\TASK!.dll
